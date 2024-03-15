@@ -1,0 +1,2 @@
+inputfile	example1.fastq
+dograph	0

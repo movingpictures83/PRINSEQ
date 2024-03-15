@@ -1,0 +1,3 @@
+Prefix plugins/PRINSEQ/example/
+Plugin PRINSEQ inputfile parameters.txt outputfile example1.gd
+#Plugin PRINSEQ inputfile parameters.graph.txt outputfile example1

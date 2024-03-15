@@ -1,0 +1,2 @@
+inputfile	example1.gd
+dograph	1
